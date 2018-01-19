@@ -1,0 +1,31 @@
+.jumbotron {
+    background-color: rgb(44, 23, 53);
+    color: rgb(255, 215, 215);
+    text-align: center;
+    border: solid white;
+}
+#survey_btn{
+    box-shadow: 4px 4px black;
+}
+
+.question{
+    font-size: 18px;
+}
+
+#checkAnswer {
+    margin-top: 10px;
+}
+
+
+.answers_bottom{
+    margin-bottom: 20px;
+}
+
+footer{
+    text-align: center;
+    padding-top: 60px;
+}
+
+#footer-text{
+    padding-top: 15px;
+}
